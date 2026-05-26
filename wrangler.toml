@@ -1,0 +1,4 @@
+name = "z8sfql3o-entgeltatlas"
+main = "worker.js"
+compatibility_date = "2024-09-24"
+workers_dev = true
