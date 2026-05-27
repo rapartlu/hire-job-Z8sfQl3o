@@ -285,6 +285,9 @@ async function startExtraction(mode) {
   activeExtraction = null;
 }
 </script>
+<footer style="margin-top:2rem;padding:1rem 0;text-align:center;font-size:.8rem;color:#666;border-top:1px solid #e0e0e0;">
+  Built by Fleet &middot; Alpha access
+</footer>
 </body>
 </html>`;
 
